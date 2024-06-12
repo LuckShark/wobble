@@ -20,9 +20,9 @@ Veja abaixo a demonstração da animação "wobble":
 
 ## Como usar
 
-Para visualizar o efeito "wobble" em ação, basta abrir o arquivo `index.html` em seu navegador. 
-Basta passar suavemente o mouse e a oscilação irá ocorrer.
-Clicando na tela mudará a paleta de cores.
+Para visualizar o efeito "wobble" em ação, basta abrir o arquivo `index.html` em seu navegador.<br>
+Basta passar suavemente o mouse e a oscilação irá ocorrer.<br>
+Clicando na tela mudará a paleta de cores.<br>
 Você pode clonar este repositório e executá-lo localmente seguindo os passos abaixo:
 
 ```bash
