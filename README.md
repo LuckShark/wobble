@@ -23,14 +23,4 @@ Veja abaixo a demonstração da animação "wobble":
 Para visualizar o efeito "wobble" em ação, basta abrir o arquivo `index.html` em seu navegador.<br>
 Basta passar suavemente o mouse e a oscilação irá ocorrer.<br>
 Clicando na tela mudará a paleta de cores.<br>
-Você pode clonar este repositório e executá-lo localmente seguindo os passos abaixo:
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/wobble-html-css-js.git
-
-# Navegue até o diretório do projeto
-cd wobble-html-css-js
-
-# Abra o arquivo index.html no seu navegador
-open index.html
